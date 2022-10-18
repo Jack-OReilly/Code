@@ -1,0 +1,46 @@
+Variables - need declare at the begining
+
+    SNP 
+    DRY don't repeat yourself
+
+    Assignment operators 
+        let name = "Jack"
+        console.log(name)
+        // Jack 
+
+    Arithmatic operators
+        let addition = (4 + 6) 
+        console.log(addition)
+        // 10 
+        
+    Operators
+        let greaterThan = (5 > 10)
+        console.log(greaterThan)
+        // False 
+
+    And 
+        console.log(3 > 1 && 5 > 10)
+        // False
+
+    Or  
+        console.log(3 > 1 || 5 > 10)
+        // TRUE
+
+    String operators
+        let firstname = Jack
+        let surname = O'Reilly
+        console.log(firstname + surname)   console.log(`I am ${firstname} ${surname}`)
+        // Jack O'Reilly     I am Jack O'Reilly
+
+    Data types
+    - String
+    - Number
+    - Boolean (True of False)
+    - Null 
+    - Array
+    - Object
+
+
+
+
+    
